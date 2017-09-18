@@ -4,9 +4,12 @@ Download MP4
 
     npm install ytdl-core
 
-Convert to MP3
+On 14.04 Trusty
 
     sudo add-apt-repository ppa:mc3man/trusty-media
     sudo apt-get update
-    sudo apt-get install ffmpeg
+
+Convert to MP3
+
+    sudo apt install ffmpeg
     npm install fluent-ffmpeg
